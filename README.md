@@ -29,7 +29,7 @@ Cada análisis generado por el agente incluye:
 
 1. **Clonar y preparar entorno**:
    ```bash
-   git clone <tu-repositorio>
+   git clone https://github.com/cdanielrua/cyberintelligence_agent.git
    cd cyber-agent
    python3 -m venv venv
    source venv/bin/activate
