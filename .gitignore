@@ -1,0 +1,14 @@
+# Entorno Virtual
+venv/
+__pycache__/
+*.pyc
+
+# Configuración Sensible (¡IMPORTANTE!)
+.env
+
+# Datos Locales
+processed_ids.txt
+cron_log.txt
+
+# VS Code
+.vscode/
